@@ -1,0 +1,12 @@
+C:\Users\snehapar\source\repos\SampleAspireApplication\SampleAspireApplication.ServiceDefaults\bin\Debug\net8.0\SampleAspireApplication.ServiceDefaults.deps.json
+C:\Users\snehapar\source\repos\SampleAspireApplication\SampleAspireApplication.ServiceDefaults\bin\Debug\net8.0\SampleAspireApplication.ServiceDefaults.dll
+C:\Users\snehapar\source\repos\SampleAspireApplication\SampleAspireApplication.ServiceDefaults\bin\Debug\net8.0\SampleAspireApplication.ServiceDefaults.pdb
+C:\Users\snehapar\source\repos\SampleAspireApplication\SampleAspireApplication.ServiceDefaults\obj\Debug\net8.0\SampleAspireApplication.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Users\snehapar\source\repos\SampleAspireApplication\SampleAspireApplication.ServiceDefaults\obj\Debug\net8.0\SampleAspireApplication.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\snehapar\source\repos\SampleAspireApplication\SampleAspireApplication.ServiceDefaults\obj\Debug\net8.0\SampleAspireApplication.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Users\snehapar\source\repos\SampleAspireApplication\SampleAspireApplication.ServiceDefaults\obj\Debug\net8.0\SampleAspireApplication.ServiceDefaults.AssemblyInfo.cs
+C:\Users\snehapar\source\repos\SampleAspireApplication\SampleAspireApplication.ServiceDefaults\obj\Debug\net8.0\SampleAspireApplication.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Users\snehapar\source\repos\SampleAspireApplication\SampleAspireApplication.ServiceDefaults\obj\Debug\net8.0\SampleAspireApplication.ServiceDefaults.dll
+C:\Users\snehapar\source\repos\SampleAspireApplication\SampleAspireApplication.ServiceDefaults\obj\Debug\net8.0\refint\SampleAspireApplication.ServiceDefaults.dll
+C:\Users\snehapar\source\repos\SampleAspireApplication\SampleAspireApplication.ServiceDefaults\obj\Debug\net8.0\SampleAspireApplication.ServiceDefaults.pdb
+C:\Users\snehapar\source\repos\SampleAspireApplication\SampleAspireApplication.ServiceDefaults\obj\Debug\net8.0\ref\SampleAspireApplication.ServiceDefaults.dll
